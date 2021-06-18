@@ -1,0 +1,14 @@
+{
+  "name": "incredibleextension",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Content.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "servedir": "^1.0.1"
+  }
+}
